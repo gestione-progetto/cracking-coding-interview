@@ -8,6 +8,13 @@
 | Binary Trees | Depth First Search | Singleton Design Pattern |
 | Tries | Binary Search | Factory Design Pattern |
 
+
+### Brain Teasers
+
+1. Add arithmetic operators (plus, minus, times, divide) to make the following expression true: 3 1 3 6 = 8. You can use any parentheses you'd like.
+
 ### References:
 
-1. Gayle Laakmann McDowell, "Cracking the Coding Interview", pp. 26-27.
+1. Gayle Laakmann McDowell, "Cracking the Coding Interview", pp. 26, 60.
+
+
